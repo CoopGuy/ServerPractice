@@ -1,0 +1,16 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "practice for setting up http server that will respond with a webpage",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "author": "Starshot",
+  "license": "MIT"
+}
